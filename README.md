@@ -1,5 +1,6 @@
 **Project summary**
 
+***AITND, Project 1***
 
 -Implementing an testing a simple momentum trading strategy, using a universe of stocks and time range, and a textual description of how to generate a trading signal based on a momentum indicator. 
 
